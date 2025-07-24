@@ -2,7 +2,7 @@
 
 A **Machine Learning-based Streamlit web app** that predicts whether a breast tumor is **Benign** or **Malignant**, based on various tumor characteristics. Built as part of my internship at **InternPe**.
 
-![App Screenshot]("C:\Users\yashs\OneDrive\Pictures\Screenshots\Screenshot 2025-07-25 004926.png">)
+![App Screenshot](<img width="1846" height="920" alt="Screenshot 2025-07-25 004926" src="https://github.com/user-attachments/assets/6d744126-937c-4087-99c0-6d005b0dafa7" />)
 
 ---
 
@@ -70,6 +70,7 @@ Always consult a healthcare provider for medical decisions.
 
 ## 📬 Contact
 Feel free to connect with me on LinkedIn or raise an issue here.
+🔗 LinkdIn : https://www.linkedin.com/in/yash-shingne-82b106292
 
 
 
