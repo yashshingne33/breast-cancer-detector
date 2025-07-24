@@ -2,7 +2,9 @@
 
 A **Machine Learning-based Streamlit web app** that predicts whether a breast tumor is **Benign** or **Malignant**, based on various tumor characteristics. Built as part of my internship at **InternPe**.
 
-![App Screenshot](<img width="1846" height="920" alt="Screenshot 2025-07-25 004926" src="https://github.com/user-attachments/assets/6d744126-937c-4087-99c0-6d005b0dafa7" />)
+![App Screenshot]
+<img width="1846" height="920" alt="Screenshot 2025-07-25 004926" src="https://github.com/user-attachments/assets/e05452f6-33ed-4694-b19a-ada69a0d8891" />
+
 
 ---
 
