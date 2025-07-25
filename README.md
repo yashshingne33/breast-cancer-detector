@@ -65,6 +65,12 @@ This project uses a **Logistic Regression model** trained on the famous Breast C
  ┣ 📄 requirements.txt        # Dependencies
  ┗ 📄 README.md               # This file
 
+## 🔧 Model Training:
+1. Model trained in Google Colab
+2. Logistic Regression algorithm used
+3. StandardScaler applied
+4. Exported .pkl files used in the Streamlit app
+
 ## ⚠️ Disclaimer
 This app is intended for educational and demonstration purposes only.
 It is not a substitute for professional medical diagnosis.
